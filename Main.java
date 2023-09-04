@@ -4,7 +4,6 @@ import java.awt.image.BufferStrategy;
 
 import java.util.ArrayList;
 
-//import static jdk.nashorn.internal.runtime.regexp.joni.Syntax.Java;
 
 public class Main {
     static Point center;
