@@ -1,6 +1,3 @@
-import javafx.scene.Parent;
-import javafx.scene.chart.Axis;
-
 import javax.swing.*;
 import javax.swing.plaf.SliderUI;
 import java.awt.*;
